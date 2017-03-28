@@ -1,0 +1,6 @@
+My first program about exppress.
+My idea is that if i was a Expressman when i  served package ,i must stop my car and check the package'number to call.
+This program base the telephone ,using andriod's camera scanning the  2-D bar-code,and read the number in order to call.
+This program will leberate hand,and reduce the  operation.
+It's my plane.
+ 
